@@ -56,12 +56,20 @@ https://user-images.githubusercontent.com/110892495/189848417-7c7305bb-7377-483e
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Text: Beschreibt die Einzelheiten des Codes, wie z.B. was für Elemente ich verwendet habe und was ich beachten musste.
+Code Snippet: Zeigt, wie der Code letztendlich aussieht.
+Video: Spielt das Spiel durch mit allen möglichen Runden, sprich die normale Runde, die direkt beendete Runde durch Absturz und die manipulierte Runde mit der plötzlichen falschen Info.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Was lief gut?
 
-👎 und etwas, was nicht gut lief.
+Ich konnte mich ziemlich gut an die zeitlichen Vorgaben halten, die uns Herr Colic aufgegeben hat. Zudem konnte ich einigermassen produktiv arbeiten.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+Was lief nicht so gut?
+
+Wenn mal was nicht funktioniert hat, war schnell frustriert und dies raubte mir auch die Motivation. Ich konnte nur noch irgendwie an Wunder glauben, um mich aus der Frustration zu befreien.
+
+VBV:
+
+Ich sollte nächstes Mal nicht komplett ausrasten wenn mal was schief läuft und zudem einfach mal ausprobieren was geht. Ausserdem sollte ich mein Vorgehen besser planen und mich mit den einzelnen Funktionen mehr auseinandersetzen, um etwas kreativeres zu erschaffen.
