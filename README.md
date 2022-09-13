@@ -14,7 +14,7 @@ Ich habe gelernt, wie man richtig Zahlen generiert und wie man gewisse Limits im
 
 
 
-Ich habe mit den verschiedenen Variablen bzw. Operatoren gearbeitet, hauptsächlich mit Doubles und mit if-Schleifen. Natürlich brauchte ich auch die Eingabefunktion "Console.WriteLine()" damit das Programm weiss was ich eingeben möchte. Ich musste jeweils die Zahlen auch definieren und Limite bestimmen. Und für die absichtlichen Crashes habe ich extra keine "try->catch-Schleife" und auch keine "do->while-Schleife" eingebaut, da sich sonst das ganze wiederholen würde, aber mein Ziel war es, dass das Spiel manipuliert wird, wenn man miiten im Spiel etwas falsches eingibt oder wenn man von Beginn an etwas falsches eingibt, dass das Spiel ganz abstürzt, wobei auf Ersteres ich keinen grossen Einfluss hatte.
+Ich habe mit den verschiedenen Variablen bzw. Operatoren gearbeitet, hauptsächlich mit if-Schleifen. Natürlich brauchte ich auch die Eingabefunktion "Console.WriteLine()" damit das Programm weiss was ich eingeben möchte. Ich musste jeweils die Zahlen auch definieren und Limite bestimmen. Und für die absichtlichen Crashes habe ich extra keine "try->catch-Schleife" und auch keine "do->while-Schleife" eingebaut, da sich sonst das ganze wiederholen würde, aber mein Ziel war es, dass das Spiel manipuliert wird, wenn man miiten im Spiel etwas falsches eingibt oder wenn man von Beginn an etwas falsches eingibt, dass das Spiel ganz abstürzt, wobei auf Ersteres ich keinen grossen Einfluss hatte.
 
 ```csharp
 
@@ -49,6 +49,10 @@ Ich habe mit den verschiedenen Variablen bzw. Operatoren gearbeitet, hauptsächl
                 };
 
 ```
+
+
+
+https://user-images.githubusercontent.com/110892495/189848417-7c7305bb-7377-483e-a75a-80a4652e7e86.mp4
 
 ## Verifikation
 
